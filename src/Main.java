@@ -39,7 +39,19 @@ public class Main {
         System.out.println();
 
 
+        System.out.println("  FFFFF   OOOOO   RRRRR      TTTTT    H   H   EEEEE ");
+        System.out.println("  F       O   O   R   R       T      H   H   E     ");
+        System.out.println("  FFFF    O   O   RRRRR       T      HHHHH   EEEE  ");
+        System.out.println("  F       O   O   R  R        T      H   H   E     ");
+        System.out.println("  F       OOOOO   R   R       T      H   H   EEEEE ");
 
+        System.out.println();
+
+        System.out.println("  BBBBB   EEEEE   SSSSS    TTTTT      TTTTT   EEEEE   AAAAA   CCCCC   H   H   EEEEE   RRRRR ");
+        System.out.println("  B   B   E       S          T          T     E       A   A   C       H   H   E       R   R ");
+        System.out.println("  BBBBB   EEEE    SSSSS      T          T     EEEE    AAAAA   C       HHHHH   EEEE    RRRRR ");
+        System.out.println("  B   B   E           S      T          T     E       A   A   C       H   H   E       R  R  ");
+        System.out.println("  BBBBB   EEEEE   SSSSS      T          T     EEEEE   A   A   CCCCC   H   H   EEEEE   R   R ");
     }
 
 
